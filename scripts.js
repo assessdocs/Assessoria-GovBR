@@ -254,8 +254,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
 document.addEventListener('DOMContentLoaded', function() {
     var perfis = {
-        perfil1: { nome: "Garra Assessoria", imagem: "perfil1.png" },
+        perfil1: { nome: "Seven Assessoria", imagem: "perfil1.png" },
         perfil2: { nome: "Banco Agibank", imagem: "perfil2.png" },
+        perfil3: { nome: "Garra Assessoria", imagem: "perfil3.png" },
     };
 
     var perfilAtual = 1;
